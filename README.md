@@ -22,10 +22,13 @@ If you decide to dig through my repositories, tho, you can find some stuff relat
 You can find me here, at my [Portfolio]() website or at my [LinkedIn]() and [Instagram](https://www.instagram.com/ovictorcavalcanti/) profile pages.
 
 **Other possibly relevant stuff:**
+
 Other skills:
+
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 GitHub status:
+
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovictorcavalcanti)](https://github.com/anuraghazra/github-readme-stats)
 
 Always learning! :)
