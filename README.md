@@ -9,9 +9,9 @@ Welp, here's some information you might be looking for:
 ```javascript
 const name = "Victor Cavalcanti";
 const bday = "May 10, 1996";
-let age = 26;
+let age = 27;
 let currentRole = "Front-End Web Developer";
-let mainTechs = ["HTML5", "CSS3", "JS ES6"];
+let mainTechs = ["HTML5", "CSS3", "JS ES6", "React.js", "Express.js", "MongoDB", "Vue.js"];
 let fluentLanguages = ["pt-BR", "en-US", "es-ES"];
 ```
 
